@@ -1,6 +1,6 @@
 # 🍽️ Bella Vista Restaurant Demo Template
 
-![Bella Vista Banner](public/assets/banner.png)
+![Bella Vista Banner](./assets/banner.png)
 
 Welcome to **Bella Vista Restaurant** – a modern, elegant, and fully responsive restaurant website template built with React, Vite, and Tailwind CSS. This is a demo template for showcasing restaurant menus, events, and more. Easily customizable for your own restaurant or cafe!
 
@@ -15,13 +15,7 @@ Welcome to **Bella Vista Restaurant** – a modern, elegant, and fully responsiv
 - Easy to customize and extend
 - Built with React + Vite + Tailwind CSS
 
----
 
-## 🖼️ Demo Banner
-
-![Demo Banner](public/assets/banner.png)
-
----
 
 ## 🛠️ Getting Started
 
@@ -53,11 +47,7 @@ Welcome to **Bella Vista Restaurant** – a modern, elegant, and fully responsiv
 
 ---
 
-## 📸 Screenshots
 
-![Screenshot](public/assets/banner.png)
-
----
 
 ## 📄 License
 
